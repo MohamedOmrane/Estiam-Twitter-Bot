@@ -1,0 +1,22 @@
+{
+  "name": "twitter_bot",
+  "version": "1.0.0",
+  "description": "Twitter Bot for Estiam hashtag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohamedOmrane/Estiam-Twitter-Bot.git"
+  },
+  "author": "Mohamed Omrane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohamedOmrane/Estiam-Twitter-Bot/issues"
+  },
+  "homepage": "https://github.com/MohamedOmrane/Estiam-Twitter-Bot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
