@@ -13,6 +13,7 @@ This node.js bot perform these actions:
 
 
 The following constants are stored as environment variables: 
+
 -API_KEY
 
 -API_SECRET
