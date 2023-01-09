@@ -11,8 +11,9 @@ This node.js bot perform these actions:
 
 - Following users mentioning the hashtag with more than 100 followers (5)
 
+
 The following constants are stored as environment variables: 
-API_KEY
-API_SECRET
-ACCESS_TOKEN
-ACCESS_TOKEN_SECRET
+-API_KEY
+-API_SECRET
+-ACCESS_TOKEN
+-ACCESS_TOKEN_SECRET
